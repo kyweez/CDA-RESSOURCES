@@ -4,8 +4,12 @@
   link: /cheatsheets
   folder: CheatSheets
   cat:
+    - name: Linux
+      link: /cheatsheets/linux
     - name: Ethical hacking
       link: /cheatsheets/ethical_hacking
+    - name: Network
+      link: /cheatsheets/network
     - name: Html
       link: /cheatsheets/html
     - name: Js
