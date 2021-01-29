@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: JavaScript
+title: JavaScript
 permalink: /cheatsheets/js
 ---
 

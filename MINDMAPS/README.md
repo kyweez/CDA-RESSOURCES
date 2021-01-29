@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Mindmaps
+title: Mindmaps
 permalink: /mindmaps
 ---
 

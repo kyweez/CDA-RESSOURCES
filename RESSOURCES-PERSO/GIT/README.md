@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: GIT
+title: GIT
 permalink: /ressources_perso/git
 ---
 

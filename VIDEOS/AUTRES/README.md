@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Video cours autres
+title: Video cours autres
 permalink: /video/autres
 ---
 

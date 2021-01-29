@@ -1,0 +1,8 @@
+### supression des fichiers tmp
+~$*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.idea

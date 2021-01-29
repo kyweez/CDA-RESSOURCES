@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: GITHUB
+title: GITHUB
 permalink: /ressources_perso/github
 ---
 

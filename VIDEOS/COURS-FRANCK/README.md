@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Video cours Franck
+title: Video cours Franck
 permalink: /video/cours_franck
 ---
 

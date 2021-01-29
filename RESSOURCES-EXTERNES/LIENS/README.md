@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Ressources Externes Liens
+title: Ressources Externes Liens
 permalink: /ressources_externes/liens
 ---
 

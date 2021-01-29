@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Html
+title: Html
 permalink: /cheatsheets/html
 ---
 

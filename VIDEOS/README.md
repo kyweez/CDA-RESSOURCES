@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Video
+title: Video
 permalink: /video
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Video cours Sophie
+title: Video cours Sophie
 permalink: /video/cours_sophie
 ---
 

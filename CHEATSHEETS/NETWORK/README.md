@@ -1,3 +1,8 @@
+---
+layout: default
+title: Network
+permalink: /cheatsheets/network
+---
 ## Sources
 * network-common-ports-cheatsheet : [Common ports][network-0] !
 

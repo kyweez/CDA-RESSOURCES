@@ -1,3 +1,8 @@
+---
+layout: default
+title: Linux
+permalink: /cheatsheets/linux
+---
 ## Sources
 * linux-cheatsheet-0 : [Directory Structure][cheatsheet-0] !
 

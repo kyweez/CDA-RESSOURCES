@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Ressources Perso
+title: Ressources Perso
 permalink: /ressources_perso
 ---
 
