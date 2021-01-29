@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: C#
-permalink: /ressources_perso/C#
+tilte: Office
+permalink: /ressources_perso/office
 ---
 
 # Liens des documents perso

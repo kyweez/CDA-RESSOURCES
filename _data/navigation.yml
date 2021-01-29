@@ -28,16 +28,24 @@
   link: /ressources_perso
   cat:
     - name: C#
-      link: /ressources_perso/c#
+      link: /ressources_perso/c-sharp
     - name: Git
       link: /ressources_perso/git
+    - name: Github
+      link: /ressources_perso/github
     - name: Office
       link: /ressources_perso/office
+    - name: Microsoft
+      link: /ressources_perso/microsoft
 - name: Video
   link: /video
   cat:
     - name: Cours Mickaël
       link: /video/cours_mickael
+    - name: Cours Sophie
+      link: /video/cours_sophie
+    - name: Cours Franck
+      link: /video/cours_franck
     - name: Autres
       link: /video/autres
 - name: About
