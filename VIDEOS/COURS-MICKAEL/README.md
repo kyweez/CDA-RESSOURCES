@@ -14,22 +14,22 @@ Cette section regroupera les liens des vidéos enregistrées pendant les cours a
 
 ## SQL
 
-
 | Titre | Description | Lien video | Date
-|:-------------------------------|:------------------------------------------------|:-------------------------|:-----------------------------|
-| Partie 1 - Views               | Présentation des vues en SQL (et des jointures) | [Regarder ici][sql-00] ! | **Date : 29 Septembre 2020** |
-| Partie 2 - Procédures stockées | Création et utilisation des procédures stockées | [Regarder ici][sql-01] ! | **Date : 30 Septembre 2020** |
-| Partie 3 - Triggers            | Création et utilisation des déclencheurs        | [Regarder ici][sql-02] ! | **Date : 01 Octobre 2020**   |
+|:-------------------------------|:------------------------------------------------|:-------------------------|:----------------------|
+| Partie 1 - Views               | Présentation des vues en SQL (et des jointures) | [Regarder ici][sql-00] ! | **29 Septembre 2020** |
+| Partie 2 - Procédures stockées | Création et utilisation des procédures stockées | [Regarder ici][sql-01] ! | **30 Septembre 2020** |
+| Partie 3 - Triggers            | Création et utilisation des déclencheurs        | [Regarder ici][sql-02] ! | **01 Octobre 2020**   |
 
 [sql-00]: https://media.arfp.eu/2005/2020-09-29%2014-30-51-160.mp4
 [sql-01]: https://media.arfp.eu/2005/2020-09-30%2009-07-50-298.mp4
 [sql-02]: https://media.arfp.eu/2005/2020-10-01%2009-22-11-765.mp4
 
 ## JS
+
 | Titre | Description | Lien video | Date
-|:-------------------------------|:------------------------------------------------|:-------------------------|:-----------------------------|
-| Manipulation de classes - Partie 1 | Etude de cas : Gestion d'employés / Manipulation de classes | [Regarder ici][js-00] ! | **Date : 08 Juin 2020** |
-| Manipulation de classes - Partie 2 | Etude de cas : Gestion d'employés / Manipulation de classes | [Regarder ici][js-01] ! | **Date : 08 Juin 2020** |
+|:-----------------------------------|:------------------------------------------------------------|:------------------------|:-----------------|
+| Manipulation de classes - Partie 1 | Etude de cas : Gestion d'employés / Manipulation de classes | [Regarder ici][js-00] ! | **08 Juin 2020** |
+| Manipulation de classes - Partie 2 | Etude de cas : Gestion d'employés / Manipulation de classes | [Regarder ici][js-01] ! | **08 Juin 2020** |
 
 [js-00]: http://media.arfp.eu/2005/2020-06-08_10-13-51.mp4
 [js-01]: http://media.arfp.eu/2005/2020-06-08_11-03-22.mp4
@@ -39,16 +39,16 @@ Cette section regroupera les liens des vidéos enregistrées pendant les cours a
 
 | Titre | Description | Lien video | Date
 |:-------------------------------|:------------------------------------------------|:-------------------------|:-----------------------------|
-| Introduction UML | Etude de cas : Gestion d'employés / Introduction POO, UML et notions d'héritage | [Regarder ici][uml-00] ! | **Date : 10 Juin 2020** |
-| POO dans le code - Partie 1 | Etude de cas : Gestion d'employés / Démonstration de la POO en code | [Regarder ici][uml-01] ! | **Date : 10 Juin 2020** |
-| POO dans le code - Partie 2 | Etude de cas : Gestion d'employés / Démonstration de la POO en code (suite) | [Regarder ici][uml-02] | **Date : 11 Juin 2020** |
-| Correction d'exercices UML | Correction d'exercices autour de la POO avec le support UML | [Regarder ici][uml-03] ! | **Date : 11 Juin 2020** |
-| TP Point | Correction de l'exercice des points (UML & POO) | [Regarder ici][uml-04] ! | **Date : 15 Juin 2020** |
-| Exercices du Powerpoint en UML | Correction des exercices du document Powerpoint | [Regarder ici][uml-05] ! | **Date : 15 Juin 2020** |
-| Exercices Banque et Voiture - Partie 1 | Correction des exercices de la banque et de la voiture + cours sur UML/POO | [Regarder ici][uml-06] ! | **Date : 17 Juin 2020** |
-| Exercices Banque et Voiture - Partie 2 | Correction des exercices de la banque et de la voiture + cours sur UML/POO | [Regarder ici][uml-07] ! | **Date : 17 Juin 2020** |
-| Academy | Correction de l'étude de cas sur Academy | [Regarder ici][uml-08] ! | **Date : 01 Juillet 2020** |
-| Etude de cas : Gestion d'employés | Travail en UML sur une etude de ca de gestions d'employés (classes abstraites, heritage...) | [Regarder ici][uml-09] ! | **Date : 24 Juin 2020**|
+| Introduction UML | Etude de cas : Gestion d'employés <br> Introduction POO, UML <br> et notions d'héritage | [Regarder ici][uml-00] ! | **Date : 10 Juin 2020** |
+| POO dans le code - Partie 1 | Etude de cas : Gestion d'employés <br> Démonstration de la POO en code | [Regarder ici][uml-01] ! | **Date : 10 Juin 2020** |
+| POO dans le code - Partie 2 | Etude de cas : Gestion d'employés <br> Démonstration de la POO en code (suite) | [Regarder ici][uml-02] | **Date : 11 Juin 2020** |
+| Correction d'exercices UML | Correction d'exercices <br> autour de la POO avec le support UML | [Regarder ici][uml-03] ! | **Date : 11 Juin 2020** |
+| TP Point | Correction de l'exercice <br> des points (UML & POO) | [Regarder ici][uml-04] ! | **Date : 15 Juin 2020** |
+| Exercices du Powerpoint en UML | Correction des exercices <br> du document Powerpoint | [Regarder ici][uml-05] ! | **Date : 15 Juin 2020** |
+| Exercices Banque et Voiture - Partie 1 | Correction des exercices  <br> de la banque et de la voiture <br>+ cours sur UML/POO | [Regarder ici][uml-06] ! | **Date : 17 Juin 2020** |
+| Exercices Banque et Voiture - Partie 2 | Correction des exercices <br> de la banque et de la voiture <br>+ cours sur UML/POO | [Regarder ici][uml-07] ! | **Date : 17 Juin 2020** |
+| Academy | Correction de l'étude <br> de cas sur Academy | [Regarder ici][uml-08] ! | **Date : 01 Juillet 2020** |
+| Etude de cas : Gestion d'employés | Travail en UML <br> sur une etude de cas de gestions d'employés <br> (classes abstraites, heritage...) | [Regarder ici][uml-09] ! | **Date : 24 Juin 2020**|
 | Evaluation UML | Correction de l'evaluation | [Regarder ici][uml-10] ! | **Date : 10 Juillet 2020** |
 
 [uml-00]: http://media.arfp.eu/2005/2020-06-10_09-10-11.mp4
@@ -67,14 +67,9 @@ Cette section regroupera les liens des vidéos enregistrées pendant les cours a
 
 | Titre | Description | Lien video | Date
 |:-------------------------------|:------------------------------------------------|:-------------------------|:-----------------------------|
+| Cours GIT - Partie 1 | Cours et démonstration <br> sur GIT et GitHub | [Regarder ici][git-00] ! | **Date : 16 Juin 2020** |
 |||||
 |||||
-|||||
-
-### Cours GIT - Partie 1
-Cours et démonstration sur GIT et GitHub  
-**Date : 16 Juin 2020**
-* Vidéo : [Regarder ici][git-00] !
 
 [git-00]: http://media.arfp.eu/2005/2020-06-16_09-16-30.mp4
 
