@@ -1,7 +1,7 @@
 ---
 layout: default
 tilte: Ressources Externes
-permalink: /ressources_externes
+permalink: /ressources_externes/
 ---
 
 # Nous déposerons les ressources externes que nous trouvons ici.

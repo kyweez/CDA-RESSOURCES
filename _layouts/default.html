@@ -1,10 +1,41 @@
 {% include header.html %}
+{% assign isPage = false %}
 <section>
     <div id="title">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
     </div>
-    <hr />
+    {% for item in site.data.navigation %}
+        {% for subentry in item.cat %}
+            {% if subentry.link == page.url %}
+                {% assign isPage = true %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+    {% if page.url != '/about/' and isPage == false %}
+    <table>
+        <thead>
+        <tr>
+            <th colspan="2">Catégories</th>
+        </tr>
+        </thead>
+        {% for item in site.data.navigation %}
+        {% if page.url == item.link %}
+        {% for subentry in item.cat %}
+        <tbody>
+            <tr>
+                <th>{{ subentry.name }}</th>
+                <td><a href="{{site.baseurl}}{{ subentry.link }}">{{site.baseurl}}{{ subentry.link }}</a></td>
+            </tr>
+        </tbody>
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
+    </table>
+    {% endif %}
+
+    <hr/>
     {{ content }}
 </section>
 {% include footer.html %}
