@@ -1,6 +1,6 @@
 ---
 layout: home
-tilte: Home
+title: Home
 permalink: /
 ---
 

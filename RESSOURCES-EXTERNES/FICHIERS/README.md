@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Ressources Externes Fichier
+title: Ressources Externes Fichier
 permalink: /ressources_externes/fichier
 ---
 

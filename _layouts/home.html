@@ -4,11 +4,9 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% include url_downloads.html %}
-        
-        
     </div>
     <hr />
-    <div id="title">maintained by
+    <div class="contributor">maintained by
         {% for contributor in site.github.contributors %}
         <a href="{{ contributor.html_url }}">{{ contributor.login }}</a>,
         {% endfor %}

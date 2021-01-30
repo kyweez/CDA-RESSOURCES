@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: Ressources Perso
-permalink: /ressources_perso
+title: Ressources Perso
+permalink: /ressources_perso/
 ---
 
 # Nous déposerons les ressources persos que nous produirons ici.

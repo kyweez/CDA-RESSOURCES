@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Ethical hacking
+title: Ethical hacking
 permalink: /cheatsheets/ethical_hacking
 ---
 

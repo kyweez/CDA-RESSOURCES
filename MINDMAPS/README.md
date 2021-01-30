@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: Mindmaps
-permalink: /mindmaps
+title: Mindmaps
+permalink: /mindmaps/
 ---
 
 # Nous déposerons les mindmaps que nous réalisons ici.

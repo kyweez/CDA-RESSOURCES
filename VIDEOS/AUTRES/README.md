@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Video cours autres
+title: Video cours autres
 permalink: /video/autres
 ---
 
@@ -16,6 +16,7 @@ Exemple dans l'onglet JS
 ## C-SHARP
 
 ## JS
+
 
 ### Playlist d'introduction au JS :
 Parfaite introduction au langage JS. Il prend le temps de parler et explique très bien les notions de base.

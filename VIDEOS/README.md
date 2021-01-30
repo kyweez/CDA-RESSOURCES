@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: Video
-permalink: /video
+title: Video
+permalink: /video/
 ---
 
 # VIDEOS

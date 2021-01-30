@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: C#
+title: C#
 permalink: /ressources_perso/c-sharp
 ---
 

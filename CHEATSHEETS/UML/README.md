@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Uml
+title: Uml
 permalink: /cheatsheets/uml
 ---
 
